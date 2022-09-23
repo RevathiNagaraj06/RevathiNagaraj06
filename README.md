@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RevathiNagaraj06
 - 👀 I’m interested in Develobment
-- 🌱 I’m currently learning ...c,linux
+- 🌱 I’m currently learning ...c,linux,robotframe work
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...deeparaj61098@gmail.com
 
